@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "3792f7fa-5f61-4d68-b075-8f3dc6d33c37",
+		"name": "Web_Dev_Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33038156"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5600/signup",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5600/login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5600/post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5600/auth",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
