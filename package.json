@@ -1,0 +1,18 @@
+{
+  "name": "webproj1",
+  "version": "1.0.0",
+  "description": "Assignment 1 Webdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "25158",
+  "license": "ISC",
+  "dependencies": {
+    "dcrypt": "^0.0.2",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1"
+  }
+}
